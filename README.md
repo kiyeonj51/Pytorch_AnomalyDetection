@@ -4,7 +4,7 @@
 Here is a PyTorch code of anomaly detection by GANs. The overall GAN structure is taken from [eriklindernoren's code](https://github.com/eriklindernoren/PyTorch-GAN).
 * (DONE)anogan: A PyTorch implementation of [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/pdf/1703.05921.pdf)
 * (ToDo)f-anogan: [f-AnoGAN: Fast unsupervised anomaly detection with generative adversarial networks](https://www.sciencedirect.com/science/article/pii/S1361841518302640?casa_token=fhezR4xnEe0AAAAA:mLwi2qXPcbjuoZBGw7pWnWRO4lWvUl1bvNnY3NtrCtITnIAuTfU-bjmSaU5z7Rvhp2HTmfGcEw)
-* (Todo)timegan: [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)
+* (ToDo)timegan: [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/8789-time-series-generative-adversarial-networks.pdf)
 
 ## Datasets
 1. MNIST: it is automatically downloaded by torchvision. 
